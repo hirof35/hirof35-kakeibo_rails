@@ -43,6 +43,7 @@ UI/UX:
 
 📝 今後のアップデート予定
 [ ] 期間別（月次・年次）レポートのグラフ化
+<img width="1919" height="987" alt="スクリーンショット 2026-05-01 115256" src="https://github.com/user-attachments/assets/9ed83536-67f4-4406-8d5c-a08a3947ca6b" />
 
 [ ] ユーザー認証機能（Devise）の導入
 
